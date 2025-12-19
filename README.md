@@ -64,6 +64,11 @@ I enjoy working across the full data science lifecycle — from **data cleaning 
 
 ---
 
+### 🔹 Movie Recommendation System
+- A content-based movie recommender built using Python and Streamlit that suggests the top 5 similar movies based on user selection. The system leverages cosine similarity on preprocessed movie features and is deployed on Streamlit Cloud, handling large model artifacts efficiently for real-time recommendations.
+
+---
+
 ## Certification
 
 **Data Science Certification – Netzwerk AI**  
